@@ -16,11 +16,11 @@ header {
     background-color: #ff000f;
 }
 
-.B{
+.B {
     text-align: center;
     width: 50%;
     height: 100px;
-    background-color: #000fff;
+    background-color: #0f0;
     float: left;
     
 }
@@ -29,7 +29,7 @@ header {
     text-align: center;
     width: 50%;
     height: 100px;
-    background-color: #0f0;
+    background-color: purple;
     float: right;
 }
 
@@ -37,7 +37,7 @@ header {
     text-align: center;
     width: 33.3%;
     height: 100px;
-    background-color: #0f0;
+    background-color: palevioletred;
     float: left;
 }
 
@@ -45,7 +45,7 @@ header {
     text-align: center;
     width: 33.3%;
     height: 100px;
-    background-color: blueviolet;
+    background-color: blue;
     float: left;
     
 }
@@ -54,7 +54,7 @@ header {
     text-align: center;
     width: 33.3%;
     height: 100px;
-    background-color: pink;
+    background-color: indigo;
     float: right;
 }
 
@@ -62,7 +62,7 @@ header {
     text-align: center;
     width: 25%;
     height: 100px;
-    background-color: pink;
+    background-color: blueviolet;
     float: left;
 }
 
@@ -98,6 +98,6 @@ header {
     text-align: center;
     width: 100%;
     height: 100px;
-    background-color: cyan;
+    background-color: olivedrab;
     float: left;
 }
