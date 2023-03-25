@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Gi11 sans, sans-serif';
+}
+h3 {
+  color: #75E2FF;
+  background: #5689C0;
+}
+h1 {
+  padding: 25px;
+  text-align: center;
+}
+h2{
+  color: #6BBD99;
+  background: #30444F;
+}
+.materi {
+  color: #A1E1FA;
+  background: #3B7197;
+}
+#submateri {
+  color: #98DAD8;
+  background: #5B8291;
+}
